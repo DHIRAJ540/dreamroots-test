@@ -1,0 +1,11 @@
+.custom_shadow {
+  box-shadow: -10px -10px 20px #403672, 10px 10px 20px #2d2653;
+}
+
+.custom_gradient {
+  background: linear-gradient(90deg, #e48e51 0%, #e8d48f 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
